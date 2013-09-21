@@ -4,6 +4,9 @@ package com.goralsoft.codegen.javawebapp;
  * kabadi - codegen tool makes simpler the development of Enterprise Apps
  * 
  */
+ /*
+ Test for editing
+ */
 import java.io.FileWriter;
 import java.io.Writer;
 import com.goralsoft.codegen.Util.AllColumns;
