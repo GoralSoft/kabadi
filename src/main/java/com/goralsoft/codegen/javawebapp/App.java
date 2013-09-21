@@ -7,9 +7,6 @@ package com.goralsoft.codegen.javawebapp;
  /*
  Test for editing
  */
-/*
-Test Editing from viswa
-*/
 import java.io.FileWriter;
 import java.io.Writer;
 import com.goralsoft.codegen.Util.AllColumns;
